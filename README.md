@@ -1,6 +1,6 @@
-# 📦 Amazon.in Market Sizing (Guesstimate) Case Study
+# Amazon.in Market Sizing (Guesstimate) Case Study
 
-## 🎯 Project Overview
+## Project Overview
 
 The goal is to **estimate the daily volume of items sold on Amazon.in** by breaking down the Indian market into core consumption factors.  
 
@@ -8,7 +8,7 @@ The model is implemented in **Python**, allowing for quick testing and validatio
 
 ---
 
-## 🧮 Model Methodology (The 6 Steps)
+## Model Methodology (The 6 Steps)
 The estimation follows a logical, step-by-step breakdown starting from the total market size:
 
 1. **Estimate Total Households** – Establish the population base.  
@@ -20,7 +20,7 @@ The estimation follows a logical, step-by-step breakdown starting from the total
 
 ---
 
-## 📊 Key Assumptions & Base Case
+## Key Assumptions & Base Case
 
 | Metric                                  | Value          | Unit                       |
 |-----------------------------------      |----------------|----------------------------|
